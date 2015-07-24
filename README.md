@@ -1,6 +1,8 @@
-# My Book
+# Django高级主题
 
-Welcome in my book!
+这里记录了一些学习过程中用到的第三方app及框架，以及自己的一些使用心得
+
+在看这部分内容时，需要你有一些基本的django知识
 
 
 

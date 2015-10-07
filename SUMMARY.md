@@ -14,6 +14,7 @@
    * [FLAT-UI](third_app/flat-ui.md)
    * [Third Admin](third_app/grappelli-a_beautiful_admin-interface.md)
    * [RESTFRAMEWORK](third_app/restframework.md)
+   * [django rest framework 3.0](third_app/django_rest_framework_30.md)
    * [django-siteuser](third_app/django-siteuser.md)
    * [scaffold](third_app/scaffold.md)
    * [South](third_app/south.md)
